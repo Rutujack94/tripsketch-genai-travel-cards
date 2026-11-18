@@ -4,8 +4,6 @@
 
 Upload travel notes (a `.txt` file) and TripSketch makes one card per destination with a short summary, a question and answer, a travel tip and an AI-generated picture.
 
-Micro project for *Generative AI and Prompt Engineering Lab* (2311404), B.Tech AI & Data Science, K. K. Wagh Institute of Engineering Education and Research, Nashik (Sem VII, 2026-27).
-
 ![Deck of cards](docs/images/deck.png)
 
 ## Pipeline
@@ -73,14 +71,3 @@ pytest
 ## Ethics
 
 Every picture carries an "AI-generated illustration" watermark. Pictures are imagined illustrations, not real photographs. Always verify timings, prices and safety information from official sources.
-
-## Team
-
-| Roll No. | Name |
-|---|---|
-| 64 | Rutuja Khande |
-| 65 | Gayatri Dhangar |
-| 66 | Lalit Patil |
-| 67 | Kunal Pawar |
-
-Licensed under the MIT License.
