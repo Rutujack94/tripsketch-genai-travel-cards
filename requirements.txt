@@ -1,0 +1,13 @@
+streamlit
+nltk
+numpy
+scikit-learn
+sentence-transformers
+transformers
+torch
+accelerate
+diffusers
+rouge-score
+openai
+pillow
+pytest
